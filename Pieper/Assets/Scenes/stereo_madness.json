@@ -1,0 +1,65 @@
+[
+  {
+    "ID": "pieper:grid",
+    "PositionX": 0,
+    "PositionY": 0,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:player",
+    "PositionX": 0,
+    "PositionY": 160,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:ground",
+    "PositionX": 0,
+    "PositionY": -640,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:spike",
+    "PositionX": 1184,
+    "PositionY": 160,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:half_spike",
+    "PositionX": 2144,
+    "PositionY": 160,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:spike",
+    "PositionX": 2208,
+    "PositionY": 160,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:game_manager",
+    "PositionX": 0,
+    "PositionY": 0,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  }
+]

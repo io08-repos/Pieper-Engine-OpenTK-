@@ -1,0 +1,344 @@
+[
+  {
+    "ID": "pieper:grid",
+    "PositionX": 0,
+    "PositionY": 0,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:player",
+    "PositionX": 0,
+    "PositionY": 160,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:ground",
+    "PositionX": 0,
+    "PositionY": -640,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:spike",
+    "PositionX": 352,
+    "PositionY": 160,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:spike",
+    "PositionX": 416,
+    "PositionY": 160,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:spike",
+    "PositionX": 480,
+    "PositionY": 160,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:spike",
+    "PositionX": 500,
+    "PositionY": 160,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 736,
+    "PositionY": 160,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 736,
+    "PositionY": 224,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1120,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1184,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1248,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1312,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1376,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1440,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1504,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1120,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1184,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1248,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1312,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1376,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1440,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1504,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1568,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1632,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1696,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1760,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1824,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1888,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 1952,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 2016,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 2080,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 2144,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 2208,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 2272,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 2336,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 2400,
+    "PositionY": 416,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:game_manager",
+    "PositionX": 0,
+    "PositionY": 0,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  }
+]

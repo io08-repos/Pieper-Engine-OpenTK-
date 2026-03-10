@@ -1,0 +1,98 @@
+[
+  {
+    "ID": "pieper:player",
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 256,
+    "Y": 0,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 512,
+    "Y": 0,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 768,
+    "Y": 0,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 0,
+    "Y": 256,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 256,
+    "Y": 256,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 512,
+    "Y": 256,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 768,
+    "Y": 256,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 0,
+    "Y": 512,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 256,
+    "Y": 512,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 512,
+    "Y": 512,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 768,
+    "Y": 512,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 0,
+    "Y": 768,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 256,
+    "Y": 768,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 512,
+    "Y": 768,
+    "Z": 0
+  },
+  {
+    "ID": "pieper:player",
+    "X": 768,
+    "Y": 768,
+    "Z": 0
+  }
+]

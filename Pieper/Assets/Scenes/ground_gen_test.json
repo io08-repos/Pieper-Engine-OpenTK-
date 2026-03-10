@@ -1,0 +1,29 @@
+[
+  {
+    "ID": "pieper:grid",
+    "PositionX": 0,
+    "PositionY": 0,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:player",
+    "PositionX": 0,
+    "PositionY": 1280,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:ground",
+    "PositionX": 0,
+    "PositionY": -640,
+    "PositionZ": 0,
+    "ScaleX": 0.8,
+    "ScaleY": 0.8,
+    "Rotation": 30
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ID": "pieper:player",
+    "PositionX": 0,
+    "PositionY": 0,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 0
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 0,
+    "PositionY": -96,
+    "PositionZ": 0,
+    "ScaleX": 0.8,
+    "ScaleY": 0.8,
+    "Rotation": 30
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": -96,
+    "PositionY": -96,
+    "PositionZ": 0,
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Rotation": 15
+  },
+  {
+    "ID": "pieper:block",
+    "PositionX": 96,
+    "PositionY": -96,
+    "PositionZ": 0,
+    "ScaleX": 0.5,
+    "ScaleY": 0.5,
+    "Rotation": 0
+  }
+]
